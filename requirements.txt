@@ -1,3 +1,5 @@
 DrissionPage
 pydub
 SpeechRecognition
+selenium
+aiohttp
